@@ -38,7 +38,8 @@ cd spring-boot-blog-app
 
 ## How to use
 
-To launch the application run this command (uses maven wrapper):
+To launch the application run this command (uses maven wrapper) are running java 8
+:
 ```
 $ ./mvnw clean spring-boot:run
 ```
